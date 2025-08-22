@@ -4,7 +4,6 @@ django-bootstrap5==24.2
 django-stubs==5.2.2
 django-stubs-ext==5.2.2
 django_debug_toolbar==3.8.1
-package_name==0.1
 pillow==10.4.0
 pytz==2025.2
 sqlparse==0.5.3
